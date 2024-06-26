@@ -1,0 +1,10 @@
+button{
+ border: 2px solid black;
+ margin: 5px;
+}
+.main{
+    height:85vh;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
